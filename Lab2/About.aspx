@@ -7,8 +7,4 @@
         <p>Use this area to provide additional information.</p>
         <p></p>
     </main>
-
-    <script>
-        console.log("Hi man its just a testing then dont scare");
-    </script>
 </asp:Content>
