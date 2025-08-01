@@ -5,5 +5,10 @@
         <h2 id="title"><%: Title %>.</h2>
         <h3>Your application description page.</h3>
         <p>Use this area to provide additional information.</p>
+        <p></p>
     </main>
+
+    <script>
+        console.log("Hi man its just a testing then dont scare");
+    </script>
 </asp:Content>
